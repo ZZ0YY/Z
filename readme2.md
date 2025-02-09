@@ -21,10 +21,22 @@
 
  **去哪里买呢？这个东西叫机场** 
 
-[这个就是机场 点我](https://mojie.kim/register?aff=eq4B7s7U)
-
 需要使用你的QQ邮箱或者任意邮箱注册 比如   你的QQ号@qq.com  这样的格式 反正就是带个 @，推荐使用QQ邮箱 你可以直接在QQ那里收到
+
+下面这个机场进去后 **找到右上角的「登录」** 
+![1000435563.jpg](https://s2.loli.net/2025/02/09/taDJZjgTeSI4ECN.jpg)
+
+[这个是一号机场 点我](https://wjkc123.com?c=PRKIDU)
+
   _注册完成后_ 
+
+点击「商店」购买流量  15r 够你用两三个月
+
+然后
+
+[阅读这篇教程，已下载 Flclash 记得跳过第一步](https://wjkc123.com/#/flclash_for_android)
+
+ **二号机场（可选）** [购买了一号机场可跳过第二步一整步 这是二号机场 点我](https://mojie.kim/register?aff=eq4B7s7U)
 跟着图片一步步来
 
 ![点击三条杠就这样子](%E6%BC%94%E7%A4%BA%E5%9B%BE%E7%89%87/%E5%AF%BB%E6%89%BE%E8%B4%AD%E4%B9%B0%E8%AE%A2%E9%98%85%E5%9B%BE.jpg)
@@ -88,4 +100,3 @@
 尝试重启设备。
 
 尝试删除 App 并重新安装。
--
