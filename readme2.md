@@ -1,85 +1,91 @@
-# 科学上网配置教程  
+ **首先 请复制本文链接到浏览器访问** 
 
----
+ **蓝色的字体 颜色不一样的字体 就是能够直接点的链接** 
 
-## **第一步：下载客户端**  
+ **第一步** 
 
-### ⚠️ 苹果用户请跳过此步，直接阅读第二步！  
-**若安装失败请留言手机型号 →** [点击反馈](https://pl.zyfytt.top)  
+ **！！！苹果用户请跳过第一步 直接阅读第二步！！！** 
 
-**安卓用户下载 Flclash：**  
-- [主链接（浏览器直接下载）](https://gitee.com/wind-and-moon-on-the-same-day/jc/releases/download/0.8.74/Flc.apk)  
-- [备用链接1](https://github.com/chen08209/FlClash/releases/download/v0.8.74/FlClash-0.8.74-android-arm64-v8a.apk)  
-- [备用链接2（密码832q）需要使用电脑UA打开 不会就算了](https://wwtc.lanzouq.com/ivOEj2mzphpc)  
+ **如果出现安装不了的情况请留言你的手机型号→→** [请点击](https://pl.zyfytt.top)
 
-**备用软件（Surfboard）：**  
-- [123云盘下载](https://www.123pan.com/s/IXmlVv-LhvE3.html)  
-- [备用链接](https://gitee.com/wind-and-moon-on-the-same-day/jc/releases/download/0.8.74/mobile-arm64-v8a-release_1.apk)  
+下载 Flclash [点我 要在浏览器直接下载](https://gitee.com/wind-and-moon-on-the-same-day/jc/releases/download/0.8.74/Flc.apk)—————[点我也行 有可能打不开](https://github.com/chen08209/FlClash/releases/download/v0.8.74/FlClash-0.8.74-android-arm64-v8a.apk)————[点我也行 有概率打不开](https://i-260.wwentua.com:446/02082100221743682bb/2025/02/07/ff7bf816847c9d0dfbf2a1b742abbb86.apk?st=8M6D5ETsEZ02ChSJdveRZQ&e=1739022786&b=BBAPY1V4UHgEYV8nCmIGLAVnAG4GKlE2CTRaM1InUTwEPwpuBSgFYVJ1UGsKbFBgA3sMJgQ9BmEHegtnXCsDag_c_c&fi=221743682&pid=223-74-197-218&up=2&mp=1&co=0)
 
-**打开软件后界面如下（空白状态）：**  
-![软件初始空白界面](%E6%BC%94%E7%A4%BA%E5%9B%BE%E7%89%87/%E8%BD%AF%E4%BB%B6%E7%9A%84%E9%85%8D%E7%BD%AE%E5%9C%A8%E5%93%AA.jpg)  
+第二种下载 Flclash[需要使用电脑版 桌面版网站UA打开 不会就算了 密码 832q ](https://wwtc.lanzouq.com/ivOEj2mzphpc?)
 
----
+备用软件：Surfboard[点我 没有密码](https://www.123pan.com/s/IXmlVv-LhvE3.html)———————[备用 也可以点我](https://gitee.com/wind-and-moon-on-the-same-day/jc/releases/download/0.8.74/mobile-arm64-v8a-release_1.apk)—————[备用 可能打不开](https://github.com/getsurfboard/surfboard/releases/download/mobile-2.24.9/mobile-arm64-v8a-release.apk)
 
-## **第二步：购买订阅**  
+然后你打开软件，大概就是这样子 什么都没有，这个时候就要买流量了
+![就这样](%E6%BC%94%E7%A4%BA%E5%9B%BE%E7%89%87/%E8%BD%AF%E4%BB%B6%E7%9A%84%E9%85%8D%E7%BD%AE%E5%9C%A8%E5%93%AA.jpg)
 
-**注册机场（需QQ邮箱）：**  
-[点击进入机场官网](https://mojie.kim/register?aff=eq4B7s7U)  
+ **第二步** 
 
-**购买步骤：**  
-1. 登录后点击左上角 **三条杠菜单**  
-   ![三条杠菜单位置](%E6%BC%94%E7%A4%BA%E5%9B%BE%E7%89%87/%E5%AF%BB%E6%89%BE%E8%B4%AD%E4%B9%B0%E8%AE%A2%E9%98%85%E5%9B%BE.jpg)  
-2.   点击  **「购买订阅」** 
-   ![一键订阅入口](%E6%BC%94%E7%A4%BA%E5%9B%BE%E7%89%87/%E8%B4%AD%E4%B9%B0%E8%AE%A2%E9%98%85%E5%9B%BE.jpg)  
-3. 购买后返回首页，选择 **「订阅」→「一键订阅」**→点击 **「复制链接」**  
-   ![复制订阅链接](%E6%BC%94%E7%A4%BA%E5%9B%BE%E7%89%87/%E5%A4%8D%E5%88%B6%E9%93%BE%E6%8E%A5%20%E5%9B%BE.jpg)  
+ **去哪里买呢？这个东西叫机场** 
 
----
+[这个就是机场 点我](https://mojie.kim/register?aff=eq4B7s7U)
 
-## **苹果用户专用指南**  
-[iOS 配置教程（点击查看）](https://mojie.kim/docs?id=4)  
+需要使用你的QQ邮箱或者任意邮箱注册 比如   你的QQ号@qq.com  这样的格式 反正就是带个 @，推荐使用QQ邮箱 你可以直接在QQ那里收到
+  _注册完成后_ 
+跟着图片一步步来
 
----
+![点击三条杠就这样子](%E6%BC%94%E7%A4%BA%E5%9B%BE%E7%89%87/%E5%AF%BB%E6%89%BE%E8%B4%AD%E4%B9%B0%E8%AE%A2%E9%98%85%E5%9B%BE.jpg)
+丨
 
-## **第三步：配置订阅链接**  
+丨
+点击三条杠后就会这界面
+丨
 
-**在 Flclash 中操作：**  
-1. 打开软件 → 点击右下角 **「+」号**  
-2. 选择 **「从 URL 导入」**  
-3. 粘贴复制的订阅链接 → 完成！  
-   ![URL导入界面](%E6%BC%94%E7%A4%BA%E5%9B%BE%E7%89%87/Screenshot_2025-02-07-16-54-25-81_ed7cc6eecf382e65e95dbc137f8c2558.jpg)  
+丨
+![要点击一键订阅哦](%E6%BC%94%E7%A4%BA%E5%9B%BE%E7%89%87/%E8%B4%AD%E4%B9%B0%E8%AE%A2%E9%98%85%E5%9B%BE.jpg)
 
----
 
-## **第四步：连接与测试**  
+你购买了就好了 已经是相当便宜了 15r 够你用两三个月了
 
-**启动代理：**  
-1. 点击底部 **「仪表盘」**  
-2. 点击 **三角形启动按钮**  
-   ![启动按钮位置](%E6%BC%94%E7%A4%BA%E5%9B%BE%E7%89%87/%E5%BC%80%E5%A7%8B%E6%8C%89%E9%92%AE.jpg)  
-3. 测试访问：[谷歌官网](https://Google.com)  
 
----
+ **第三步** 
+苹果用户请先阅读这个：[苹果用户点我 看完再回来](https://mojie.kim/docs?id=4)
+如果让你登录，那你登录刚注册的那个就是了
 
-## **无法连接？按此排查！**  
+购买完成后 回到第一张图
 
-1. ✅ 检查订阅是否过期  
-2. ✅ 切换节点或代理模式（勿用「直连」）  
-3. ✅ 重新更新订阅 → 重启设备  
-4. ✅ 删除重装客户端  
+往下滑找到“一键订阅”
 
----
+![机场的首页长这样子](%E6%BC%94%E7%A4%BA%E5%9B%BE%E7%89%87/%E4%B8%80%E9%94%AE%E8%AE%A2%E9%98%85%E5%9B%BE.jpg)
 
-### **其他补充**
 
-1. **什么是机场？**  
-   机场是提供代理服务的平台，用户购买流量套餐后可以配置并使用翻墙软件。
+然后就会变成这个样子 点 **“复制链接** 
 
-2. **关于订阅链接的说明**  
-   订阅链接是通过购买套餐后获得的，用户需要将此链接导入到 Flclash 等客户端中。
 
-3. **备用方案**  
-   如果主链接失效，请尝试以下链接：
-   - [Flclash 官方 GitHub 仓库](https://github.com/chen08209/FlClash/releases/tag/v0.8.74)
+![出现大大的复制链接](%E6%BC%94%E7%A4%BA%E5%9B%BE%E7%89%87/%E5%A4%8D%E5%88%B6%E9%93%BE%E6%8E%A5%20%E5%9B%BE.jpg)
 
----
+ **第四步** 
+ _请仔细查看第一步打开软件的页面_ 
+
+打开第一步下载的软件  点击右下角那个 **大大的加号** 
+
+ **选择URL** 
+ **从URL下载** 
+![这样子](%E6%BC%94%E7%A4%BA%E5%9B%BE%E7%89%87/Screenshot_2025-02-07-16-54-25-81_ed7cc6eecf382e65e95dbc137f8c2558.jpg)
+
+复制粘贴就完成了！
+
+ **最后点左下角的仪表盘** ，就会有一个类似视频播放、暂停的三角形大大按钮，点击后就成功了
+如图：![点击右下角的开始按钮](%E6%BC%94%E7%A4%BA%E5%9B%BE%E7%89%87/%E5%BC%80%E5%A7%8B%E6%8C%89%E9%92%AE.jpg)
+
+恭喜你完成了科学上网！访问[谷歌 点我](https://Google.com)试试吧
+
+ **连接后无法使用** 
+
+确保当前订阅地址对应的服务套餐未过期。
+
+确保所选节点是可用节点。
+
+确保所选代理模式不是「直连 / Direct」。
+
+尝试重新更新订阅导入节点。
+
+尝试 4G / WIFI / 重启路由器和光猫。
+
+尝试重启设备。
+
+尝试删除 App 并重新安装。
+-
