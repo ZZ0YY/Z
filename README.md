@@ -17,7 +17,7 @@
 [▶️ Flclash 主通道下载](https://gitee.com/wind-and-moon-on-the-same-day/jc/releases/download/0.8.74/Flc.apk)    
 🔗 备用通道：    
 - [GitHub 镜像源](https://github.com/chen08209/FlClash/releases/download/v0.8.74/FlClash-0.8.74-android-arm64-v8a.apk)    
-- [企业级CDN加速](https://i-260. wwentua.com:446/02082100221743682bb/2025/02/07/ff7bf816847c9d0dfbf2a1b742abbb86.apk?st=8M6D5ETsEZ02ChSJdveRZQ&e=1739022786&b=BBAPY1V4UHgEYV8nCmIGLAVnAG4GKlE2CTRaM1InUTwEPwpuBSgFYVJ1UGsKbFBgA3sMJgQ9BmEHegtnXCsDag_c_c&fi=221743682&pid=223-74-197-218&up=2&mp=1&co=0)
+
 
 ### 方式二：网盘下载  
 [💾 蓝奏云下载](https://wwtc.lanzouq.com/ivOEj2mzphpc?)（解压密码：832q）    
